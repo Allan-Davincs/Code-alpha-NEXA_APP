@@ -107,7 +107,7 @@ graph TD
 ### 1. Clone & Install
 
 ```bash
-git clone [https://github.com/yourusername/neza-social-media.git](https://github.com/yourusername/neza-social-media.git)
+git clone [https://github.com/allan-davincs/nexaa-app.git](https://github.com/allan-davincs/neza-social-media.git)
 cd nexa-social-media
 npm run install-all # Custom script to install both FE/BE
 
@@ -197,6 +197,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <div align="center">
 
 
-[⬆ Back to Top](https://www.google.com/search?q=%23-nexa-social-media-platform)
 
 </div>
