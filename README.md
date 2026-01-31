@@ -1,6 +1,3 @@
-This is a comprehensive, high-quality `README.md` for your **Nexa Social Media Platform**. I have enhanced the formatting, added professional status badges, organized the tech stack visually, and ensured the instructions are crystal clear for any developer landing on your repo.
-
-You can copy the code block below directly into your project.
 
 ```markdown
 # 🚀 Nexa Social Media Platform
